@@ -44,67 +44,17 @@ Philosophy:
 
 # 🛠 Tech Stack
 
-## Languages
+I've grouped the main technologies I use by category. Icons are centered for readability.
 
-```{=html}
-<p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,php,java,rust,go"/>`{=html}
-```{=html}
-</p>
-```
-## Frontend
-
-```{=html}
-<p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css"/>`{=html}
-```{=html}
-</p>
-```
-## Backend
-
-```{=html}
-<p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel"/>`{=html}
-```{=html}
-</p>
-```
-## Database
-
-```{=html}
-<p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,redis"/>`{=html}
-```{=html}
-</p>
-```
-## Blockchain
-
-```{=html}
-<p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=solidity"/>`{=html}
-```{=html}
-</p>
-```
--   Ethereum
--   Web3.py
--   Wagmi
--   Viem
--   Ethers.js
--   Solana
-
-## DevOps
-
-```{=html}
-<p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,cloudflare,postman,vscode"/>`{=html}
-```{=html}
-</p>
-```
+| Category | Technologies |
+|---:|:---|
+| Languages | <p align="center"><img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,php,java,rust,go" alt="languages"/></p> |
+| Frontend | <p align="center"><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css" alt="frontend"/></p> |
+| Backend | <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel" alt="backend"/></p> |
+| Database | <p align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,redis" alt="databases"/></p> |
+| Blockchain | <p align="center"><img src="https://skillicons.dev/icons?i=solidity,ethers,web3js,web3py" alt="blockchain"/></p>  
+- Ethereum • Web3.py • Wagmi • Viem • Ethers.js • Solana |
+| DevOps & Tools | <p align="center"><img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,cloudflare,postman,vscode" alt="devops"/></p> |
 
 ------------------------------------------------------------------------
 
