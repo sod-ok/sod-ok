@@ -78,8 +78,8 @@ Ethereum • Solana • Web3.py • Wagmi • Viem • Ethers.js
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sod-ok&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sod-ok&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=sod-ok&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sod-ok&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -99,7 +99,7 @@ Ethereum • Solana • Web3.py • Wagmi • Viem • Ethers.js
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sod-ok&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=sod-ok&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4" alt="GitHub Trophies" />
 
 </div>
 
