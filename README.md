@@ -1,25 +1,21 @@
-::: {align="center"}
+<div align="center">
+
 # 👋 Hi, I'm Sod
 
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=800&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Automation+Engineer;Blockchain+Developer;A[...]`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=800&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Automation+Engineer;Blockchain+Developer;AI+Enthusiast" alt="Typing SVG" />
 
-```{=html}
-<p>
-```
-Building modern applications, blockchain tools, and automation software
-with a focus on clean architecture, scalability, and developer
-experience.
-```{=html}
-</p>
-```
-`<img src="https://komarev.com/ghpvc/?username=sod-ok&style=for-the-badge&color=0e75b6"/>`{=html}
-:::
+Building modern applications, blockchain tools, and automation software —
+with a focus on clean architecture, scalability, and developer experience.
 
-------------------------------------------------------------------------
+<img src="https://komarev.com/ghpvc/?username=sod-ok&style=for-the-badge&color=0e75b6" alt="Profile views" />
 
-# 🚀 About Me
+</div>
 
-``` yaml
+---
+
+## 🚀 About Me
+
+```yaml
 Name: Sod
 Location: Indonesia 🇮🇩
 
@@ -36,175 +32,132 @@ Currently Learning:
   - AI Agents
   - Distributed Systems
 
-Philosophy:
-  "Build once, improve forever."
+Philosophy: "Build once, improve forever."
 ```
 
-------------------------------------------------------------------------
+---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-I've grouped the main technologies I use by category. Icons are centered for readability.
+<div align="center">
 
-| Category | Technologies |
-|---:|:---|
-| Languages | <p align="center"><img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,php,java,rust,go" alt="languages"/></p> |
-| Frontend | <p align="center"><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css" alt="frontend"/></p> |
-| Backend | <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel" alt="backend"/></p> |
-| Database | <p align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,redis" alt="databases"/></p> |
-| Blockchain | <p align="center"><img src="https://skillicons.dev/icons?i=solidity,ethers,web3js,web3py" alt="blockchain"/></p>  
-- Ethereum • Web3.py • Wagmi • Viem • Ethers.js • Solana |
-| DevOps & Tools | <p align="center"><img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,cloudflare,postman,vscode" alt="devops"/></p> |
+**Languages**
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,php,java,rust,go" alt="languages" />
 
-------------------------------------------------------------------------
+**Frontend**
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css" alt="frontend" />
 
-# 📊 GitHub Statistics
+**Backend**
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel" alt="backend" />
 
-::: {align="center"}
-`<img height="170" src="https://github-readme-stats.vercel.app/api?username=sod-ok&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>`{=html}
+**Database**
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,redis" alt="databases" />
 
-`<img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=sod-ok&theme=tokyo-night&hide_border=true"/>`{=html}
-:::
+**Blockchain**
+<img src="https://skillicons.dev/icons?i=solidity,ethers,web3js,web3py" alt="blockchain" />
 
-`<br>`{=html}
+Ethereum • Solana • Web3.py • Wagmi • Viem • Ethers.js
 
-::: {align="center"}
-`<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sod-ok&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
-:::
+**DevOps & Tools**
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,cloudflare,postman,vscode" alt="devops" />
 
-------------------------------------------------------------------------
+</div>
 
-# 📈 Contribution Graph
+---
 
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=sod-ok&theme=tokyo-night&hide_border=true"/>`{=html}
-```{=html}
-</p>
-```
+## 📊 GitHub Statistics
 
-------------------------------------------------------------------------
+<div align="center">
 
-# 🏆 GitHub Trophy
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sod-ok&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sod-ok&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-```{=html}
-<p align="center">
-```
-`<img src="https://github-profile-trophy.vercel.app/?username=sod-ok&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>`{=html}
-```{=html}
-</p>
-```
+</div>
 
-------------------------------------------------------------------------
+---
 
-# 🚀 Featured Areas
+## 📈 Contribution Activity
 
-  🚀 Category     Description
-  --------------- -----------------------------------
-  🌐 Full Stack   Next.js, React, APIs
-  🤖 Automation   Python Automation & Bots
-  ⛓ Blockchain    Ethereum, Solana, Smart Contracts
-  🧠 AI           AI Integration & Automation
-  ⚙️ Dev Tools    CLI, Utilities, Productivity
+<div align="center">
 
-------------------------------------------------------------------------
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sod-ok&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 
-# 📚 Currently Working On
+</div>
 
--   🚀 Modern Full Stack Applications
--   🤖 AI Automation
--   ⛓ Blockchain Development
--   ⚡ Performance Optimization
--   🌐 Open Source Projects
+---
 
-------------------------------------------------------------------------
+## 🏆 GitHub Trophies
 
-# 🐍 Contribution Snake
+<div align="center">
 
-> Enable this with GitHub Actions.
+<img src="https://github-profile-trophy.vercel.app/?username=sod-ok&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4" alt="GitHub Trophies" />
 
-```{=html}
-<p align="center">
-```
-`<img src="https://raw.githubusercontent.com/sod-ok/sod-ok/output/github-contribution-grid-snake-dark.svg"/>`{=html}
-```{=html}
-</p>
-```
+</div>
 
-------------------------------------------------------------------------
+---
 
-# ⌛ Coding Time (WakaTime)
+## 🌱 Featured Areas
 
-> Requires WakaTime setup.
+| Category | Focus |
+|---|---|
+| 🌐 Full Stack | Next.js, React, REST/GraphQL APIs |
+| 🤖 Automation | Python scripts, bots, workflow tooling |
+| ⛓ Blockchain | Ethereum, Solana, smart contracts |
+| 🧠 AI | AI integration & agent-based automation |
+| ⚙️ Dev Tools | CLIs, utilities, productivity tooling |
 
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sod-ok&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
-</p>
-```
+---
 
-------------------------------------------------------------------------
+## 📚 Currently Building
 
-# 🎧 Spotify
+- 🚀 Modern full stack applications
+- 🤖 AI-powered automation
+- ⛓ Blockchain tooling & smart contracts
+- ⚡ Performance optimization
+- 🌐 Open source contributions
 
-> Optional
+---
 
-```{=html}
-<p align="center">
-```
-`<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default"/>`{=html}
-```{=html}
-</p>
-```
+## 🐍 Contribution Snake
 
-------------------------------------------------------------------------
+> Powered by GitHub Actions — see [platane/snk](https://github.com/Platane/snk) to set this up.
 
-# 🏅 Holopin
+<div align="center">
 
-> Optional
+<img src="https://raw.githubusercontent.com/sod-ok/sod-ok/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
-```{=html}
-<p align="center">
-```
-`<a href="https://holopin.io/@YOUR_USERNAME">`{=html}
-`<img src="https://holopin.me/YOUR_USERNAME"/>`{=html} `</a>`{=html}
-```{=html}
-</p>
-```
+</div>
 
-------------------------------------------------------------------------
+---
 
-# 💬 Random Dev Quote
+## ⌛ Coding Time (WakaTime)
 
-```{=html}
-<p align="center">
-```
-`<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>`{=html}
-```{=html}
-</p>
-```
+> Requires a WakaTime badge set up via [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats).
 
-------------------------------------------------------------------------
+<div align="center">
 
-# 🌎 Connect
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sod-ok&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
 
-```{=html}
-<p align="center">
-```
-`<a href="https://github.com/sod-ok">`{=html}
-`<img src="https://skillicons.dev/icons?i=github"/>`{=html}
-`</a>`{=html}
-```{=html}
-</p>
-```
+</div>
 
-------------------------------------------------------------------------
+---
 
-::: {align="center"}
+## 🌎 Connect
+
+<div align="center">
+
+<a href="https://github.com/sod-ok">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
 ### ⭐ Thanks for visiting!
 
 *"Code with passion. Build with purpose."*
-:::
+
+</div>
