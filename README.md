@@ -39,27 +39,36 @@ Philosophy: "Build once, improve forever."
 
 ## 🛠 Tech Stack
 
+<table>
+  <tr>
+    <td align="right"><strong>Languages</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,php,java,rust,go" alt="languages" /></td>
+  </tr>
+  <tr>
+    <td align="right"><strong>Frontend</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css" alt="frontend" /></td>
+  </tr>
+  <tr>
+    <td align="right"><strong>Backend</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel" alt="backend" /></td>
+  </tr>
+  <tr>
+    <td align="right"><strong>Database</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,redis" alt="databases" /></td>
+  </tr>
+  <tr>
+    <td align="right"><strong>Blockchain</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=solidity,ethers,web3js,web3py" alt="blockchain" /></td>
+  </tr>
+  <tr>
+    <td align="right"><strong>DevOps & Tools</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,cloudflare,postman,vscode" alt="devops" /></td>
+  </tr>
+</table>
+
 <div align="center">
 
-**Languages**
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,php,java,rust,go" alt="languages" />
-
-**Frontend**
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css" alt="frontend" />
-
-**Backend**
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel" alt="backend" />
-
-**Database**
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,redis" alt="databases" />
-
-**Blockchain**
-<img src="https://skillicons.dev/icons?i=solidity,ethers,web3js,web3py" alt="blockchain" />
-
 Ethereum • Solana • Web3.py • Wagmi • Viem • Ethers.js
-
-**DevOps & Tools**
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,cloudflare,postman,vscode" alt="devops" />
 
 </div>
 
@@ -127,13 +136,6 @@ Ethereum • Solana • Web3.py • Wagmi • Viem • Ethers.js
 <img src="https://raw.githubusercontent.com/sod-ok/sod-ok/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
 </div>
-
----
-
-## ⌛ Coding Time (WakaTime)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
