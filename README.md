@@ -132,13 +132,8 @@ Ethereum • Solana • Web3.py • Wagmi • Viem • Ethers.js
 
 ## ⌛ Coding Time (WakaTime)
 
-> Requires a WakaTime badge set up via [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats).
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sod-ok&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
-
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
